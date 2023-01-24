@@ -2,7 +2,7 @@
 
 ### Hi everyone  👋, I am IMANE EL_YAHYAOUY
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full-stack+developer;Undergraduate+student;in+computer+science+at+FSTT." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full-stack+developer;Undergraduate+student;in+computer+science+at+FSTT." alt="Typing SVG" /></a>
 </p>
 
 
