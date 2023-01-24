@@ -1,8 +1,8 @@
-<img width=100% title="imane-fl." alt="imane.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="coder abhi." alt="abhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ### Hi everyone  👋, I am IMANE EL_YAHYAOUY
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full-stack+developer;Undergraduate+student+in+computer;engineering+at+FSTT." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full-stack+developer;Undergraduate+student;in+computer+science+at+FSTT." alt="Typing SVG" /></a>
 </p>
 
 
@@ -60,6 +60,7 @@
 <div>
 <img alt="linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
 </div>
+
 ## 📮 Connected me :
  
 <code><a href="https://www.linkedin.com/in/imane-el-yahyaouy-9a1680255/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
