@@ -33,13 +33,13 @@
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 <br>
+ <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+<br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
-<br>
-<img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 <br>
