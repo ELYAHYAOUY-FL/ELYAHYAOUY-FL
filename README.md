@@ -2,7 +2,7 @@
 
 ### Hi everyone  👋, I am IMANE EL_YAHYAOUY
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full-stack+developer;Undergraduate+student;in+computer+science+at+FSTT." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=beginner-Full-stack+developer;Undergraduate+student;in+computer+science+at+FSTT." alt="Typing SVG" /></a>
 </p>
 
 
@@ -30,6 +30,8 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+<br>
+<img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 <br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <br>
