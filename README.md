@@ -1,9 +1,11 @@
 <img width=100% alt="wlcom to my profile " src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
-### Hi everyone  👋, I am IMANE EL_YAHYAOUY
+
+
+## Hi everyone  👋, I am IMANE EL_YAHYAOUY
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=beginner-Full-stack+developer;Undergraduate+student;in+software+engineer+at+FSTT." alt="Typing SVG" /></a>
 </p>
-
+<br>
 
 - 💻 I’m interested in all what is IT and Computer Science
 
