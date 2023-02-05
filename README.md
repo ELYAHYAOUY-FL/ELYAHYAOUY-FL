@@ -1,6 +1,4 @@
-<!-- <img width=100% title="coder abhi." alt="abhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome-to-my-profile😊&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
-
-<img width=100% alt="wlcom to my profile " src="https://tenor.com/fr/view/welcome-to-my-profile-welcome-gif-24740207"/>
+<img width=100% alt="wlcom to my profile " src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 ### Hi everyone  👋, I am IMANE EL_YAHYAOUY
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=beginner-Full-stack+developer;Undergraduate+student;in+software+engineer+at+FSTT." alt="Typing SVG" /></a>
